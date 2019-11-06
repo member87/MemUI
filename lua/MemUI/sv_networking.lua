@@ -1,0 +1,7 @@
+resource.AddSingleFile("resource/fonts/Roboto-Black.ttf")
+resource.AddSingleFile("resource/fonts/Roboto-Bold.ttf")
+resource.AddSingleFile("resource/fonts/Roboto-Light.ttf")
+resource.AddSingleFile("resource/fonts/Roboto-Medium.ttf")
+resource.AddSingleFile("resource/fonts/Roboto-Regular.ttf")
+resource.AddSingleFile("resource/fonts/Roboto-Thin.ttf")
+util.AddNetworkString("MEM::UI::MAIN")
